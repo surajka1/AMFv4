@@ -1,0 +1,4 @@
+Added Component: Designator=D13_2(LEDSMALL)
+Added Pin To Net: NetName=VCC Pin=D13_2-1
+Added Pin To Net: NetName=GCONTACT_P Pin=D13_2-2
+Added Member To Class: ClassName=FRONTPANEL Member=Component D13_2 GREEN LED 3MM

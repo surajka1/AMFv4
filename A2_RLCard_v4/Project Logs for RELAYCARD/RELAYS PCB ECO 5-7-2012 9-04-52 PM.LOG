@@ -1,0 +1,38 @@
+Change Component Footprint: Designator=C58 Old Footprint=R1206W New Footprint=C1206W
+Change Component Comment : Designator=C59 Old Comment=Cap Ceramic 1uF New Comment=100uF/25V
+Change Component Comment : Designator=C21 Old Comment=Cap Ceramic .1uF New Comment=1uF 1206
+Change Component Comment : Designator=C69 Old Comment=Cap Ceramic .1uF New Comment=1uF 1206
+Change Component Comment : Designator=C58 Old Comment=Cap Ceramic .1uF New Comment=.1uF 1206
+Change Component Comment : Designator=C9 Old Comment=Cap Semi New Comment=1N4148 SMD
+Change Component Comment : Designator=C10 Old Comment=Cap Semi New Comment=1N4148 SMD
+Change Component Comment : Designator=C11 Old Comment=Cap Semi New Comment=1N4148 SMD
+Change Component Comment : Designator=C12 Old Comment=Cap Semi New Comment=1N4148 SMD
+Change Component Comment : Designator=C13 Old Comment=Cap Semi New Comment=1N4148 SMD
+Change Component Comment : Designator=C14 Old Comment=Cap Semi New Comment=1N4148 SMD
+Change Component Comment : Designator=C15 Old Comment=Cap Semi New Comment=1N4148 SMD
+Change Component Comment : Designator=C16 Old Comment=Cap Semi New Comment=1N4148 SMD
+Change Component Comment : Designator=K1 Old Comment=Relay New Comment=61-06-1CE
+Change Component Comment : Designator=K2 Old Comment=Relay New Comment=61-06-1CE
+Change Component Comment : Designator=K3 Old Comment=Relay New Comment=61-06-1CE
+Change Component Comment : Designator=K4 Old Comment=Relay New Comment=61-06-1CE
+Change Component Comment : Designator=K6 Old Comment=Relay New Comment=61-06-1CE
+Change Component Comment : Designator=K7 Old Comment=Relay New Comment=61-06-1CE
+Change Component Comment : Designator=K8 Old Comment=Relay New Comment=61-06-1CE
+Change Component Comment : Designator=R35 Old Comment=Res 1K New Comment=1K 1206
+Change Component Comment : Designator=R34 Old Comment=Res 4.7K New Comment=10K 1206
+Change Component Comment : Designator=R117 Old Comment=Res SMT New Comment=2.2K 1206
+Change Component Comment : Designator=R118 Old Comment=Res SMT New Comment=2.2K 1206
+Change Component Comment : Designator=R119 Old Comment=Res SMT New Comment=2.2K 1206
+Change Component Comment : Designator=R120 Old Comment=Res SMT New Comment=2.2K 1206
+Change Component Comment : Designator=R121 Old Comment=Res SMT New Comment=2.2K 1206
+Change Component Comment : Designator=R122 Old Comment=Res SMT New Comment=2.2K 1206
+Change Component Comment : Designator=R123 Old Comment=Res SMT New Comment=2.2K 1206
+Change Component Comment : Designator=R124 Old Comment=Res SMT New Comment=2.2K 1206
+Change Component Description : Designator=C9 Old Description=Capacitor (Semiconductor SIM Model) New Description=Small Signal Fast Switching Diode
+Change Component Description : Designator=C10 Old Description=Capacitor (Semiconductor SIM Model) New Description=Small Signal Fast Switching Diode
+Change Component Description : Designator=C11 Old Description=Capacitor (Semiconductor SIM Model) New Description=Small Signal Fast Switching Diode
+Change Component Description : Designator=C12 Old Description=Capacitor (Semiconductor SIM Model) New Description=Small Signal Fast Switching Diode
+Change Component Description : Designator=C13 Old Description=Capacitor (Semiconductor SIM Model) New Description=Small Signal Fast Switching Diode
+Change Component Description : Designator=C14 Old Description=Capacitor (Semiconductor SIM Model) New Description=Small Signal Fast Switching Diode
+Change Component Description : Designator=C15 Old Description=Capacitor (Semiconductor SIM Model) New Description=Small Signal Fast Switching Diode
+Change Component Description : Designator=C16 Old Description=Capacitor (Semiconductor SIM Model) New Description=Small Signal Fast Switching Diode

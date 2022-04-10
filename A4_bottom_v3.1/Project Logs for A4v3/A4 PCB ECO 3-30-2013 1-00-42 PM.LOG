@@ -1,0 +1,4 @@
+Added Component: Designator=C2(C1206VW)
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=+9V Pin=C2-2
+Added Member To Class: ClassName=AC2 Member=Component C2 .1uF 1206

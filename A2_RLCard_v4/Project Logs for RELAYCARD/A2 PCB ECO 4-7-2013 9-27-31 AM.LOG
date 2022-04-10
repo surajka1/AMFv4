@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=GCONTACTVIN Pin=K5-1
+Removed Pin From Net: NetName=GCONTACTOUT Pin=K5-3
+Removed Pin From Net: NetName=GCONTACTIN Pin=K5-4
+Removed Pin From Net: NetName=+12 Pin=K5-5
+Removed Member From Class: ClassName=RELAYS Member=K5
+Added Component: Designator=RL1(RELAYDPDT)
+Added Pin To Net: NetName=GCONTACTIN Pin=RL1-1
+Added Pin To Net: NetName=GCONTACTVIN Pin=RL1-11
+Added Pin To Net: NetName=GCONTACTOUT Pin=RL1-13
+Added Pin To Net: NetName=+12 Pin=RL1-16
+Added Member To Class: ClassName=RELAYS Member=Component RL1 46-12-2CE

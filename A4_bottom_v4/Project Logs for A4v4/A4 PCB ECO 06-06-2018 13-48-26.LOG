@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=DGN Pin=R86-1
+Removed Pin From Net: NetName=NetR86_2 Pin=R86-2
+Removed Member From Class: ClassName=AC2 Member=R86
+Change Net Name : Old Net Name=NetR86_2 New Net Name=NetR89_1

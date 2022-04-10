@@ -1,0 +1,14 @@
+Change Component Footprint: Designator=PFP Old Footprint=HDR1X16 New Footprint=HDR1X16_BURGE_M_ST
+Change Component Comment: Designator=S1 Old Comment=8MM DOM SWITCH New Comment=SW-PB
+Change Component Comment: Designator=S2 Old Comment=8MM DOM SWITCH New Comment=SW-PB
+Change Component Comment: Designator=S3 Old Comment=8MM DOM SWITCH New Comment=SW-PB
+Change Component Comment: Designator=S4 Old Comment=8MM DOM SWITCH New Comment=SW-PB
+Change Component Comment: Designator=S5 Old Comment=8MM DOM SWITCH New Comment=SW-PB
+Change Component Comment: Designator=S6 Old Comment=8MM DOM SWITCH New Comment=SW-PB
+Change Component Comment: Designator=S7 Old Comment=8MM DOM SWITCH New Comment=SW-PB
+Change Component Comment: Designator=S8 Old Comment=8MM DOM SWITCH New Comment=SW-PB
+Change Component Comment: Designator=S9 Old Comment=8MM DOM SWITCH New Comment=SW-PB
+Change Component Comment: Designator=D13 Old Comment=GREEN LED 3MM New Comment=LED1
+Change Component Comment: Designator=D14 Old Comment=GREEN LED 3MM New Comment=LED1
+Change Component Comment: Designator=D12 Old Comment=RED LED 3MM New Comment=LED1
+Change Component Comment: Designator=D15 Old Comment=YELLOW LED 3MM New Comment=LED1

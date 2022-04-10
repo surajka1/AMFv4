@@ -1,0 +1,4 @@
+Added Component: Designator=C69(R1206W)
+Added Pin To Net: NetName=GND Pin=C69-1
+Added Pin To Net: NetName=BATMEASURE Pin=C69-2
+Added Member To Class: ClassName=RELAYS Member=Component C69 Cap Ceramic .1uF

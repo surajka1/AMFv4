@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=GND Pin=C2-1
+Removed Pin From Net: NetName=GND Pin=C3-1
+Removed Member From Class: ClassName=PROCESSORv35 Member=C2
+Removed Member From Class: ClassName=PROCESSORv35 Member=C3
+Removed Member From Class: ClassName=PROCESSORv35 Member=Y1

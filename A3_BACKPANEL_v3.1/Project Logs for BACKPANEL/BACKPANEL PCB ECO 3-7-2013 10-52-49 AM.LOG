@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=DGY Pin=P14PANEL-16
+Removed Pin From Net: NetName=DGB Pin=P14PANEL-18
+Added Pin To Net: NetName=DGB Pin=P14PANEL-16
+Added Pin To Net: NetName=DGY Pin=P14PANEL-18

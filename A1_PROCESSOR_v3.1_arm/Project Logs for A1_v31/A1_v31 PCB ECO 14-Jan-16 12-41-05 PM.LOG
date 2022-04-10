@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=FLDIR Pin=C57-1
+Removed Pin From Net: NetName=GND Pin=C57-2
+Removed Pin From Net: NetName=VCC Pin=R5-1
+Removed Pin From Net: NetName=FLDIRIN Pin=R5-2
+Removed Pin From Net: NetName=GND Pin=R6-2
+Removed Pin From Net: NetName=FLDIRIN Pin=R24-1
+Removed Pin From Net: NetName=FLDIR Pin=R53-1

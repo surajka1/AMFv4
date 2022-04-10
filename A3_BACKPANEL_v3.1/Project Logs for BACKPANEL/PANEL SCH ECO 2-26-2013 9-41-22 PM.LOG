@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=P7 Old Footprint=HDR1X14 New Footprint=HDR1X14_BURGE_M
+Change Component Footprint: Designator=PR2 Old Footprint=HDR1X16 New Footprint=HDR1X16_BURGE_F
+Change Component Footprint: Designator=P14PANEL Old Footprint=HDR1X18 New Footprint=HDR1X18_BURGE_M
+Change Component Footprint: Designator=P8 Old Footprint=PANELCON15 New Footprint=XY2500_15PIN_M_ST
+Change Component Footprint: Designator=P9 Old Footprint=PANELCON15 New Footprint=XY2500_15PIN_M_ST

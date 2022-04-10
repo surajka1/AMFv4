@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=NetR46_1 Pin=R46-1
+Removed Pin From Net: NetName=FREQ Pin=R46-2
+Removed Pin From Net: NetName=DGY Pin=R113-1
+Removed Member From Class: ClassName=AC2_v40 Member=R46
+Change Net Name : Old Net Name=NetR46_1 New Net Name=NetR75_1

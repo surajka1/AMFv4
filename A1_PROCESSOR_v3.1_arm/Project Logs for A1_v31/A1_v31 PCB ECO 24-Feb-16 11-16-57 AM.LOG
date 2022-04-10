@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=FLG Pin=C15-1
+Removed Pin From Net: NetName=GND Pin=C15-2
+Removed Pin From Net: NetName=GND Pin=R19-1
+Removed Pin From Net: NetName=FLGIN Pin=R21-2
+Removed Pin From Net: NetName=GND Pin=R107-2
+Removed Pin From Net: NetName=FLG Pin=R119-2

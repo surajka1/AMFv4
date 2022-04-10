@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=S3 Pin=U2-3
+Added Pin To Net: NetName=S3 Pin=MC1-3
+Change Net Name : Old Net Name=S3 New Net Name=COMM2

@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=FLSTARTIN Pin=U10-11
+Removed Pin From Net: NetName=PREHEATERIN Pin=U10-13
+Added Pin To Net: NetName=PREHEATERIN Pin=U10-11
+Added Pin To Net: NetName=FLSTARTIN Pin=U10-13

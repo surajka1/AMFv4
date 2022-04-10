@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=DGR_M Pin=R67-2
+Removed Pin From Net: NetName=DGR_M Pin=R99-2
+Removed Pin From Net: NetName=DGY Pin=R113-1
+Added Pin To Net: NetName=DGY Pin=R67-2
+Added Pin To Net: NetName=DGY Pin=R99-2
+Added Pin To Net: NetName=DGR_M Pin=R113-1

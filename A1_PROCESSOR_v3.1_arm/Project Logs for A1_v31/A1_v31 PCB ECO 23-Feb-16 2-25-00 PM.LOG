@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=FLSTART Pin=U1-5
+Removed Pin From Net: NetName=CRANK Pin=U1-6
+Added Pin To Net: NetName=CRANK Pin=U1-5
+Added Pin To Net: NetName=FLSTART Pin=U1-6

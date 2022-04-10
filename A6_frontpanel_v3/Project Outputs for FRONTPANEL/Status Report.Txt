@@ -1,0 +1,20 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [A6_FRONTPANELv3.PrjPcb]
+   Generated File[A6.GTL]
+   Generated File[A6.GBL]
+   Generated File[A6.GTS]
+   Generated File[A6.GBS]
+   Generated File[A6.GBO]
+   Generated File[A6.GKO]
+   Generated File[A6.GD1]
+   Generated File[A6.GG1]
+   Generated File[A6.RUL]
+   Generated File[A6.EXTREP]
+   Generated File[A6.REP]
+
+
+Files Generated   : 11
+Documents Printed : 0
+
+Finished Output Generation At 11:59:08 AM On 3/1/2014

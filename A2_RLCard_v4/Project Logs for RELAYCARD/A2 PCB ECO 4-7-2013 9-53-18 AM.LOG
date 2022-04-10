@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=GCONTACTVIN Pin=RL1-11
+Removed Pin From Net: NetName=GCONTACTOUT Pin=RL1-13
+Added Pin To Net: NetName=GCONTACTOUT Pin=RL1-4
+Added Pin To Net: NetName=GCONTACTVIN Pin=RL1-6

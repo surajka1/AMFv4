@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=REMOT Pin=U2-2
+Removed Pin From Net: NetName=LLOP Pin=U2-5
+Added Pin To Net: NetName=LLOP Pin=U2-2
+Added Pin To Net: NetName=REMOT Pin=U2-5
+Added Room: Name=4067_to_4051

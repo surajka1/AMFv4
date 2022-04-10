@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=FLT1 Pin=R2-2
+Removed Pin From Net: NetName=VCC Pin=R7-1
+Removed Pin From Net: NetName=FLDIR Pin=R7-2
+Removed Pin From Net: NetName=VCC Pin=R9-1
+Removed Pin From Net: NetName=REMOT Pin=R9-2
+Removed Pin From Net: NetName=VCC Pin=R15-1
+Removed Pin From Net: NetName=HT Pin=R15-2
+Removed Pin From Net: NetName=VCC Pin=R18-1
+Removed Pin From Net: NetName=LLOP Pin=R18-2
+Removed Pin From Net: NetName=VCC Pin=R22-1
+Removed Pin From Net: NetName=EMSTP Pin=R22-2

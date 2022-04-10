@@ -1,0 +1,5 @@
+DRC Rules Export File for PCB: E:\pcbs\AMFv3\A1_PROCESSOR_v3.5\A1_v40.PcbDoc
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=16.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=16.00
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00

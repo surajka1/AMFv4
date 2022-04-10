@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=SENSE Pin=P15RL-7
+Added Pin To Net: NetName=GND Pin=P15RL-9
+Added Pin To Net: NetName=+9V Pin=P15RL-11

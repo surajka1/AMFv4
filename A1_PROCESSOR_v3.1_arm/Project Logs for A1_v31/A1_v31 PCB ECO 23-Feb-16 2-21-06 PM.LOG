@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=CRANK Pin=U1-1
+Removed Pin From Net: NetName=DGSTOP Pin=U1-2
+Added Pin To Net: NetName=DGSTOP Pin=U1-1
+Added Pin To Net: NetName=CRANK Pin=U1-2

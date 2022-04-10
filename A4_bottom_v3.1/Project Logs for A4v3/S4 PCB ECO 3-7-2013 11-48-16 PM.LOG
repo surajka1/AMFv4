@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=DGN Pin=P14PANEL-4
+Removed Pin From Net: NetName=N Pin=P14PANEL-12
+Removed Member From Class: ClassName=AC Member=R96
+Removed Member From Class: ClassName=AC2 Member=R98
+Removed Member From Class: ClassName=AC Member=R109
+Removed Member From Class: ClassName=AC Member=R111
+Added Pin To Net: NetName=N Pin=P14PANEL-4
+Added Pin To Net: NetName=DGN Pin=P14PANEL-12
+Added Pin To Net: NetName=DGRR Pin=P14PANEL-14
+Change Net Name : Old Net Name=BR New Net Name=NetR57_2
+Change Net Name : Old Net Name=DGB New Net Name=R_M
+Change Net Name : Old Net Name=DGBB New Net Name=NetR87_2
+Change Net Name : Old Net Name=DGR New Net Name=B_M
+Change Net Name : Old Net Name=DGRR New Net Name=DGR_M
+Change Net Name : Old Net Name=DGY New Net Name=Y_M
+Change Net Name : Old Net Name=DGYR New Net Name=NetR79_2
+Added Pin To Net: NetName=DGB Pin=P14PANEL-16
+Added Pin To Net: NetName=DGB Pin=R115-1
+Added Net: Name=DGB
+Added Pin To Net: NetName=DGY Pin=P14PANEL-18
+Added Pin To Net: NetName=DGY Pin=R113-1
+Added Net: Name=DGY

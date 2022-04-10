@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=RESET Pin=P4KB-12
+Removed Pin From Net: NetName=LCD_RS# Pin=U1-17
+Removed Pin From Net: NetName=LCD_E# Pin=U1-39
+Removed Pin From Net: NetName=MANUAL_R Pin=U1-55
+Removed Pin From Net: NetName=CRANK Pin=U1-56
+Removed Pin From Net: NetName=FLSTART Pin=U1-57
+Added Pin To Net: NetName=CRANK Pin=U1-1
+Added Pin To Net: NetName=FLSTART Pin=U1-2
+Added Pin To Net: NetName=MANUAL_R Pin=U1-18
+Added Pin To Net: NetName=LCD_RS# Pin=U1-57
+Added Pin To Net: NetName=LCD_E# Pin=U1-58
+Added Pin To Net: NetName=RESET_KEY Pin=P4KB-12
+Added Pin To Net: NetName=RESET_KEY Pin=U1-45
+Added Net: Name=RESET_KEY

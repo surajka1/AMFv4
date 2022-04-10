@@ -1,0 +1,18 @@
+Added Pin To Net: NetName=RL_GC Pin=U1-1
+Added Pin To Net: NetName=RL_MC Pin=U1-2
+Added Pin To Net: NetName=RL_MANUAL Pin=U1-3
+Added Pin To Net: NetName=RL_SOL Pin=U1-4
+Added Pin To Net: NetName=RL_7 Pin=U1-5
+Added Pin To Net: NetName=RL_BUZZER Pin=U1-6
+Added Pin To Net: NetName=RL_START Pin=U1-7
+Added Pin To Net: NetName=GND Pin=U1-8
+Added Pin To Net: NetName=+12 Pin=U1-9
+Added Pin To Net: NetName=RO_START Pin=U1-10
+Added Pin To Net: NetName=RO_BUZZER Pin=U1-11
+Added Pin To Net: NetName=RO_SOL Pin=U1-13
+Added Pin To Net: NetName=RO_GC Pin=U1-15
+Added Pin To Net: NetName=RO_MC Pin=U1-16
+Added Pin To Net: NetName=RO_7 Pin=U1-12
+Added Net: Name=RO_7
+Added Pin To Net: NetName=RO_MAN Pin=U1-14
+Added Net: Name=RO_MAN

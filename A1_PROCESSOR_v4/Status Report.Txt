@@ -1,0 +1,12 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [Free Documents]
+   Generated File[A1_v31.RUL]
+   Generated File[A1_v31.EXTREP]
+   Generated File[A1_v31.REP]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 10:58:08 AM On 3/24/2014

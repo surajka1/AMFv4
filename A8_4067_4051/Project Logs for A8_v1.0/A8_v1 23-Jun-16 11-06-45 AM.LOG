@@ -1,0 +1,52 @@
+Added Component: Designator=P1(HDR1X12)
+Added Component: Designator=P2(HDR1X12)
+Added Component: Designator=U1(DIP16)
+Added Component: Designator=U2(DIP16)
+Added Pin To Net: NetName=BAT Pin=P2-7
+Added Net: Name=BAT
+Added Pin To Net: NetName=BTSBATT Pin=P2-5
+Added Net: Name=BTSBATT
+Added Pin To Net: NetName=COMM Pin=P1-1
+Added Net: Name=COMM
+Added Pin To Net: NetName=DG-B_ Pin=P1-5
+Added Net: Name=DG-B_
+Added Pin To Net: NetName=DG-R_ Pin=P1-7
+Added Net: Name=DG-R_
+Added Pin To Net: NetName=DG-Y_ Pin=P1-6
+Added Net: Name=DG-Y_
+Added Pin To Net: NetName=EB-B_ Pin=P1-2
+Added Net: Name=EB-B_
+Added Pin To Net: NetName=EB-R_ Pin=P1-4
+Added Net: Name=EB-R_
+Added Pin To Net: NetName=EB-Y_ Pin=P1-3
+Added Net: Name=EB-Y_
+Added Pin To Net: NetName=EMSTP Pin=P2-8
+Added Net: Name=EMSTP
+Added Pin To Net: NetName=FLDIR Pin=P2-4
+Added Net: Name=FLDIR
+Added Pin To Net: NetName=FLG Pin=P2-6
+Added Net: Name=FLG
+Added Pin To Net: NetName=FLT1 Pin=P1-8
+Added Net: Name=FLT1
+Added Pin To Net: NetName=GND Pin=P1-12
+Added Pin To Net: NetName=GND Pin=P2-3
+Added Net: Name=GND
+Added Pin To Net: NetName=HT Pin=P1-9
+Added Net: Name=HT
+Added Pin To Net: NetName=LLOP Pin=P2-10
+Added Net: Name=LLOP
+Added Pin To Net: NetName=REMOT Pin=P2-9
+Added Net: Name=REMOT
+Added Pin To Net: NetName=RSTART Pin=P2-11
+Added Net: Name=RSTART
+Added Pin To Net: NetName=S0 Pin=P1-10
+Added Net: Name=S0
+Added Pin To Net: NetName=S1 Pin=P1-11
+Added Net: Name=S1
+Added Pin To Net: NetName=S2 Pin=P2-2
+Added Net: Name=S2
+Added Pin To Net: NetName=S3 Pin=P2-1
+Added Net: Name=S3
+Added Pin To Net: NetName=VCC Pin=P2-12
+Added Net: Name=VCC
+Added Class: Name=4067_to_4051

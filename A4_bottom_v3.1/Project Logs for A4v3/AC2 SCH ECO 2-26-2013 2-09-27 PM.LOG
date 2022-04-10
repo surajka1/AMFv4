@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=D66 Old Footprint=4148SMD New Footprint=DIODE1206
+Change Component Footprint: Designator=PN1 Old Footprint=HDR1X4 New Footprint=HDR1X4_BURGE_F
+Change Component Footprint: Designator=P13KB Old Footprint=HDR1X20 New Footprint=HDR1X20_MALE_R/A

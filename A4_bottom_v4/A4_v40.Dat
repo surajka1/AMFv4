@@ -1,0 +1,31 @@
+﻿Field=#~Integer~#~50|Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~A4v4.PrjPcb|ReportField=ProjectFullPath~E:\pcbs\AMFv3\A4_bottom_v4\A4v4.PrjPcb|ReportField=Title~Bill of Materials For PCB Document [A4_v40.PcbDoc]|ReportField=TotalQuantity~99|ReportField=ReportTime~13:04:24|ReportField=ReportDate~16-06-2018|ReportField=ReportDateTime~16-06-2018 13:04:24|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=DataSourceFileName~A4_v40.PcbDoc|ReportField=DataSourceFullPath~E:\pcbs\AMFv3\A4_bottom_v4\A4_v40.PcbDoc|ReportField=PCBConfigurationName~Default Configuration|ReportField=Item~|ReportField=ItemRevision~|ReportField=ItemAndRevision~|ReportField=ItemRevisionBase~|ReportField=ItemRevisionLevel1~|ReportField=ItemRevisionLevel2~|ReportField=ItemRevisionLevel1AndBase~|ReportField=ItemRevisionLevel2AndLevel1~
+1|10uF/63V|Polarized Capacitor (Radial)|C1, C34, C35, C36, C39, C40|C1206|Cap Pol1|6
+2|.1uF 1206|Capacitor|C2, C3, C5, C32, C33, C38, C41, C99|C1206|Cap|8
+3|Cap Electrolitic 1000uF/50V|Capacitor|C30|CAP_.2-2|Cap2|1
+4|Cap Electrolytic 470uF/16V|Capacitor|C31|CAP_.2|Cap2|1
+5|22nF 1206|Capacitor|C37|C1206|Cap|1
+6|1uF 1206|Capacitor|C43|C1206|CAP|1
+7|Cap Electrolitic 3300uF/16V|Capacitor|C56|CAP_.3|Cap2|1
+8|P6KE33A x 2|3 Amp Medium Power Silicon Rectifier Diode|D1, D7|DIODE1A|Diode 1N5408|2
+9|1N4007|3 Amp Medium Power Silicon Rectifier Diode|D16|DIODE1A|Diode 1N5408|1
+10|1N5819|Silicon Zener Diode (0.3 to 0.5W)|D61|DIODE1A|1N5221B|1
+11|Inductor 220uH|Inductor|L2|INDUCTOR|Inductor|1
+12|Inductor Toroid 1mH|Inductor|L5|INDUCTORTOROID|Inductor|1
+13|Header 20|Header, 20-Pin|P13KB|HDR1X20_BURGE_F|Header 20|1
+14|Header 18|Header, 18-Pin|P14PANEL|HDR1X18_BURGE_F|Header 18|1
+15|Header 12|Header, 12-Pin|P15RL|HDR1X12_BURGE_F|Header 12|1
+16|Header 10|Header, 10-Pin|P16AN|HDR1X10_BURGE_F|Header 10|1
+17|Header 4|Header, 4-Pin|PN1|HDR1X4_BURGE_F|Header 4|1
+18|MFR 1M .5W|Semiconductor Resistor|R1, R2, R3, R4, R5, R6, R7, R8, R9, R10, R11, R12, R109, R111, R113, R115|AXIAL-0.5|Res Semi|16
+19|1M 1206|Semiconductor Resistor|R37, R44, R45, R54, R55, R63, R65, R74, R77, R84, R85, R92|R1206|Res Semi|12
+20|220K 1206|Semiconductor Resistor|R39, R43, R48, R52, R57, R61, R67, R71, R79, R83, R87, R91|R1206|Res Semi|12
+21|33K 1206|Semiconductor Resistor|R40, R49, R58, R68, R80, R88|R1206|Res Semi|6
+22|4.7K 1206|Semiconductor Resistor|R41, R50, R59, R69, R81, R89, R97, R99, R106, R110, R112, R114, R116|R1206|Res Semi, Res Semi, Res Semi, Res Semi, Res Semi, Res Semi, Res Semi, Res Semi, Res SMT, Res Semi, Res Semi, Res Semi, Res Semi|13
+23|1K 1206|Semiconductor Resistor|R72|R1206|Res Semi|1
+24|10K 1206|Semiconductor Resistor|R73, R75|R1206|Res Semi|2
+25|18K 1206|Semiconductor Resistor|R105|R1206|Res SMT|1
+26|MFR 220E .5W|Semiconductor Resistor|R117|AXIAL-0.5|Res Semi|1
+27|LM1117DTX-5.0|800mA Low-Dropout Linear Regulator, 3-pin TO-252|U1|TD03B_N|LM1117DTX-5.0|1
+28|LM324AD|Quadruple Operational Amplifier|U12, U13|D014_M|LM324AD|2
+29|LM2576T-ADJ|SIMPLE SWITCHER® 3A Step-Down Voltage Regulator, 5-pin TO-220|U50|T05D|LM2576T-ADJ|1
+30|LM2940CT-5.0|1A Low Dropout Regulator, 3-pin TO-220|U51|T03B|LM2940CT-5.0|1

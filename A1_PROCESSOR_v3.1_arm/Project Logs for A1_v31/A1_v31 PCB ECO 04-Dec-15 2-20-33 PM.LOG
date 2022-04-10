@@ -1,0 +1,18 @@
+Added Component: Designator=C1(C1206_W)
+Added Component: Designator=R1(R1206_W)
+Added Component: Designator=U1(LQFP64_L)
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=RESET Pin=C1-2
+Added Pin To Net: NetName=NetC2_2 Pin=R1-1
+Added Pin To Net: NetName=NetC3_2 Pin=R1-2
+Added Pin To Net: NetName=RESET Pin=R76-2
+Added Pin To Net: NetName=VCC Pin=U1-7
+Added Pin To Net: NetName=VCC Pin=U1-8
+Added Pin To Net: NetName=GND Pin=U1-9
+Added Pin To Net: NetName=GND Pin=U1-10
+Added Pin To Net: NetName=NetC3_2 Pin=U1-11
+Added Pin To Net: NetName=NetC2_2 Pin=U1-12
+Added Pin To Net: NetName=GND Pin=U1-13
+Added Pin To Net: NetName=GND Pin=U1-40
+Added Pin To Net: NetName=VCC Pin=U1-41
+Added Pin To Net: NetName=RESET Pin=U1-63

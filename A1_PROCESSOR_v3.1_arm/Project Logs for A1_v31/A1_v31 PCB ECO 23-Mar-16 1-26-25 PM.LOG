@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=VCC Pin=R2-1
+Added Component: Designator=PULL(RESPACK8+1)
+Added Pin To Net: NetName=VCC Pin=PULL-1

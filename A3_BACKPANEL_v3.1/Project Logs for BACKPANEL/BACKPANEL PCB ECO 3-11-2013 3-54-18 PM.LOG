@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=CONT_S_IN Pin=P7-8
+Added Pin To Net: NetName=CONT_S_IN Pin=PGSM-1
+Added Net: Name=CONT_S_IN

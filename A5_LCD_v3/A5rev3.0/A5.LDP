@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\suraj\Documents\PCBs\AMFv3\A5_LCD_v3\A5.PcbDoc
+LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=a5-plated.txt|LayerPairs=gtl,gbl
+LayersSetName=Top_Bot_NonPlated_Thru_Holes|DrillFile=a5-nonplated.txt|LayerPairs=gtl,gbl

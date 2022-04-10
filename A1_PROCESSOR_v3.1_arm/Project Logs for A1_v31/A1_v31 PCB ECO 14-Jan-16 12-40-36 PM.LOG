@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=RSTARTIN Pin=P1PANEL-4
+Removed Pin From Net: NetName=EMSTPIN Pin=P1PANEL-6
+Removed Pin From Net: NetName=REMOTIN Pin=P1PANEL-7
+Added Pin To Net: NetName=EMSTPIN Pin=P1PANEL-4
+Added Pin To Net: NetName=REMOTIN Pin=P1PANEL-6
+Added Pin To Net: NetName=RSTARTIN Pin=P1PANEL-7

@@ -1,0 +1,14 @@
+Change Component Footprint: Designator=R34 Old Footprint=R1206W New Footprint=R1206vW
+Change Component Footprint: Designator=R35 Old Footprint=R1206W New Footprint=R1206vW
+Change Component Comment : Designator=R35 Old Comment=1K 1206 New Comment=4.7K 1206
+Change Component Comment : Designator=D63 Old Comment=1N4148 SMD New Comment=NOT CONNECTED
+Change Component Comment : Designator=R117 Old Comment=2.2K 1206 New Comment=NOT CONNECTED
+Change Component Comment : Designator=R118 Old Comment=2.2K 1206 New Comment=NOT CONNECTED
+Change Component Comment : Designator=R119 Old Comment=2.2K 1206 New Comment=NOT CONNECTED
+Change Component Comment : Designator=R120 Old Comment=2.2K 1206 New Comment=NOT CONNECTED
+Change Component Comment : Designator=R121 Old Comment=2.2K 1206 New Comment=NOT CONNECTED
+Change Component Comment : Designator=R122 Old Comment=2.2K 1206 New Comment=NOT CONNECTED
+Change Component Comment : Designator=R123 Old Comment=2.2K 1206 New Comment=NOT CONNECTED
+Change Component Comment : Designator=R124 Old Comment=2.2K 1206 New Comment=NOT CONNECTED
+Change Component Comment : Designator=R34 Old Comment=10K 1206 New Comment=47K 1206
+Change Component Comment : Designator=C59 Old Comment=100uF/25V New Comment=NOT CONNECTED

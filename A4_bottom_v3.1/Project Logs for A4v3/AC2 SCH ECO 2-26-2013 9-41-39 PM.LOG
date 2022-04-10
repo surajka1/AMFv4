@@ -1,0 +1,9 @@
+Change Component Footprint: Designator=C32 Old Footprint=C1206W New Footprint=C1206VW
+Change Component Footprint: Designator=C33 Old Footprint=C1206W New Footprint=C1206VW
+Change Component Footprint: Designator=C38 Old Footprint=C1206W New Footprint=C1206VW
+Change Component Footprint: Designator=C41 Old Footprint=C1206W New Footprint=C1206VW
+Change Component Footprint: Designator=C43 Old Footprint=C1206W New Footprint=C1206VW
+Change Component Footprint: Designator=C60 Old Footprint=C1206W New Footprint=C1206VW
+Change Component Footprint: Designator=C99 Old Footprint=C1206W New Footprint=C1206VW
+Change Component Footprint: Designator=D66 Old Footprint=DIODE1206 New Footprint=4148SMD
+Change Component Footprint: Designator=P13KB Old Footprint=HDR1X20_MALE_R/A New Footprint=HDR1X20_BURGE_F

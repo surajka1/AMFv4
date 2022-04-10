@@ -1,0 +1,20 @@
+Added Component: Designator=U55(SOIC-SO18_M)
+Added Pin To Net: NetName=GCONTACT Pin=U55-1
+Added Pin To Net: NetName=MCONTACT Pin=U55-2
+Added Pin To Net: NetName=MANUAL_R Pin=U55-3
+Added Pin To Net: NetName=DGSTOP Pin=U55-4
+Added Pin To Net: NetName=CRANK Pin=U55-5
+Added Pin To Net: NetName=FLSTART Pin=U55-6
+Added Pin To Net: NetName=PREHEATER Pin=U55-7
+Added Pin To Net: NetName=BUZZER Pin=U55-8
+Added Pin To Net: NetName=GND Pin=U55-9
+Added Pin To Net: NetName=+12 Pin=U55-10
+Added Pin To Net: NetName=FLSTARTIN Pin=U55-11
+Added Pin To Net: NetName=DGSTOPIN Pin=U55-12
+Added Pin To Net: NetName=PREHEATERIN Pin=U55-13
+Added Pin To Net: NetName=CRANKIN Pin=U55-14
+Added Pin To Net: NetName=BUZZERIN Pin=U55-15
+Added Pin To Net: NetName=MANUALIN Pin=U55-16
+Added Pin To Net: NetName=GCONTACTIN Pin=U55-17
+Added Pin To Net: NetName=MCONTACTIN Pin=U55-18
+Added Member To Class: ClassName=RELAYS Member=Component U55 ULQ2803A

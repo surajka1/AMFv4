@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=CONT_SENSE Pin=MC1-3
+Change Net Name : Old Net Name=ANALOGIN New Net Name=COMM1

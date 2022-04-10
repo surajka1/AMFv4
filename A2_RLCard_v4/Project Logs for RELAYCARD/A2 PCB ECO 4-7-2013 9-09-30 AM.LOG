@@ -1,0 +1,76 @@
+Removed Pin From Net: NetName=+12 Pin=C9-1
+Removed Pin From Net: NetName=MANUALIN Pin=C9-2
+Removed Pin From Net: NetName=+12 Pin=C10-1
+Removed Pin From Net: NetName=BUZZERIN Pin=C10-2
+Removed Pin From Net: NetName=+12 Pin=C11-1
+Removed Pin From Net: NetName=MCONTACTIN Pin=C11-2
+Removed Pin From Net: NetName=+12 Pin=C12-1
+Removed Pin From Net: NetName=PREHEATERIN Pin=C12-2
+Removed Pin From Net: NetName=+12 Pin=C13-1
+Removed Pin From Net: NetName=GCONTACTIN Pin=C13-2
+Removed Pin From Net: NetName=+12 Pin=C14-1
+Removed Pin From Net: NetName=CRANKIN Pin=C14-2
+Removed Pin From Net: NetName=+12 Pin=C15-1
+Removed Pin From Net: NetName=DGSTOPIN Pin=C15-2
+Removed Pin From Net: NetName=+12 Pin=C16-1
+Removed Pin From Net: NetName=FLSTARTIN Pin=C16-2
+Removed Pin From Net: NetName=+12 Pin=R117-1
+Removed Pin From Net: NetName=BUZZERIN Pin=R117-2
+Removed Pin From Net: NetName=+12 Pin=R118-1
+Removed Pin From Net: NetName=MANUALIN Pin=R118-2
+Removed Pin From Net: NetName=+12 Pin=R119-1
+Removed Pin From Net: NetName=MCONTACTIN Pin=R119-2
+Removed Pin From Net: NetName=+12 Pin=R120-1
+Removed Pin From Net: NetName=CRANKIN Pin=R120-2
+Removed Pin From Net: NetName=+12 Pin=R121-1
+Removed Pin From Net: NetName=GCONTACTIN Pin=R121-2
+Removed Pin From Net: NetName=+12 Pin=R122-1
+Removed Pin From Net: NetName=PREHEATERIN Pin=R122-2
+Removed Pin From Net: NetName=+12 Pin=R123-1
+Removed Pin From Net: NetName=FLSTARTIN Pin=R123-2
+Removed Pin From Net: NetName=+12 Pin=R124-1
+Removed Pin From Net: NetName=DGSTOPIN Pin=R124-2
+Change Component Footprint: Designator=C69 Old Footprint=C1206W New Footprint=C1206VW
+Change Component Footprint: Designator=PSTR2 Old Footprint=HDR1X4 New Footprint=HDR1X4_BURGE_M
+Change Component Footprint: Designator=PSTR3 Old Footprint=HDR1X4 New Footprint=HDR1X4_BURGE_M
+Change Component Footprint: Designator=P11 Old Footprint=HDR1X10 New Footprint=HDR1X10_BURGE_M2
+Change Component Footprint: Designator=P15RL Old Footprint=HDR1X10 New Footprint=HDR1X10_BURGE_M
+Change Component Footprint: Designator=PR2 Old Footprint=HDR1X16 New Footprint=HDR1X16_BURGE_M
+Change Component Footprint: Designator=R34 Old Footprint=R1206W New Footprint=R1206vW
+Change Component Footprint: Designator=R35 Old Footprint=R1206W New Footprint=R1206vW
+Change Component Comment : Designator=R35 Old Comment=1K 1206 New Comment=4.7K 1206
+Change Component Comment : Designator=D63 Old Comment=1N4148 SMD New Comment=NOT CONNECTED
+Change Component Comment : Designator=R34 Old Comment=10K 1206 New Comment=47K 1206
+Change Component Comment : Designator=C59 Old Comment=100uF/25V New Comment=NOT CONNECTED
+Added Component: Designator=D1(DO214)
+Added Component: Designator=D2(DO214)
+Added Component: Designator=D3(DO214)
+Added Component: Designator=D4(DO214)
+Added Component: Designator=D5(DO214)
+Added Component: Designator=D6(DO214)
+Added Component: Designator=D7(DO214)
+Added Component: Designator=D8(DO214)
+Added Pin To Net: NetName=MANUALIN Pin=D1-1
+Added Pin To Net: NetName=+12 Pin=D1-2
+Added Pin To Net: NetName=MCONTACTIN Pin=D2-1
+Added Pin To Net: NetName=+12 Pin=D2-2
+Added Pin To Net: NetName=BUZZERIN Pin=D3-1
+Added Pin To Net: NetName=+12 Pin=D3-2
+Added Pin To Net: NetName=GCONTACTIN Pin=D4-1
+Added Pin To Net: NetName=+12 Pin=D4-2
+Added Pin To Net: NetName=CRANKIN Pin=D5-1
+Added Pin To Net: NetName=+12 Pin=D5-2
+Added Pin To Net: NetName=PREHEATERIN Pin=D6-1
+Added Pin To Net: NetName=+12 Pin=D6-2
+Added Pin To Net: NetName=DGSTOPIN Pin=D7-1
+Added Pin To Net: NetName=+12 Pin=D7-2
+Added Pin To Net: NetName=FLSTARTIN Pin=D8-1
+Added Pin To Net: NetName=+12 Pin=D8-2
+Added Member To Class: ClassName=RELAYS Member=Component D1 1N4148 SMD
+Added Member To Class: ClassName=RELAYS Member=Component D2 1N4148 SMD
+Added Member To Class: ClassName=RELAYS Member=Component D3 1N4148 SMD
+Added Member To Class: ClassName=RELAYS Member=Component D4 1N4148 SMD
+Added Member To Class: ClassName=RELAYS Member=Component D5 1N4148 SMD
+Added Member To Class: ClassName=RELAYS Member=Component D6 1N4148 SMD
+Added Member To Class: ClassName=RELAYS Member=Component D7 1N4148 SMD
+Added Member To Class: ClassName=RELAYS Member=Component D8 1N4148 SMD

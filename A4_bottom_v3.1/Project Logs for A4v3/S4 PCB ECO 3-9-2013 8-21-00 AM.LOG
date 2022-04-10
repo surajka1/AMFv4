@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=NetR45_1 Pin=U12-1
+Removed Pin From Net: NetName=NetR45_2 Pin=U12-2
+Removed Pin From Net: NetName=NetR52_1 Pin=U12-3
+Removed Pin From Net: NetName=NetR43_1 Pin=U12-5
+Removed Pin From Net: NetName=NetR37_2 Pin=U12-6
+Removed Pin From Net: NetName=NetR37_1 Pin=U12-7
+Added Component: Designator=R109(AXIAL-0.5)
+Added Component: Designator=R111(AXIAL-0.5)
+Added Pin To Net: NetName=NetR79_2 Pin=R109-2
+Added Pin To Net: NetName=NetR87_2 Pin=R111-2
+Added Pin To Net: NetName=NetR37_1 Pin=U12-1
+Added Pin To Net: NetName=NetR37_2 Pin=U12-2
+Added Pin To Net: NetName=NetR43_1 Pin=U12-3
+Added Pin To Net: NetName=NetR52_1 Pin=U12-5
+Added Pin To Net: NetName=NetR45_2 Pin=U12-6
+Added Pin To Net: NetName=NetR45_1 Pin=U12-7
+Added Pin To Net: NetName=NetR109_1 Pin=R109-1
+Added Pin To Net: NetName=NetR109_1 Pin=R113-2
+Added Net: Name=NetR109_1
+Added Pin To Net: NetName=NetR111_1 Pin=R111-1
+Added Pin To Net: NetName=NetR111_1 Pin=R115-2
+Added Net: Name=NetR111_1
+Added Member To Class: ClassName=AC2 Member=Component R109 100K 1210
+Added Member To Class: ClassName=AC2 Member=Component R111 100K 1210

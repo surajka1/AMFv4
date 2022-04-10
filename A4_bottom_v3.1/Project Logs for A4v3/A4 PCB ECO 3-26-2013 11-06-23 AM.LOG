@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=BAT+ Pin=D16-1
+Added Pin To Net: NetName=BAT+ Pin=L2-1
+Added Pin To Net: NetName=NetD16_1 Pin=D16-1
+Added Pin To Net: NetName=NetD16_1 Pin=L2-2
+Added Net: Name=NetD16_1

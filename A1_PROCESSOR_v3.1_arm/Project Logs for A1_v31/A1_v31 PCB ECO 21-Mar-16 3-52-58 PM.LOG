@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=VCC Pin=Q4-2
+Removed Pin From Net: NetName=HT Pin=Q4-3
+Removed Pin From Net: NetName=GND Pin=R17-1
+Removed Pin From Net: NetName=HT Pin=R17-2

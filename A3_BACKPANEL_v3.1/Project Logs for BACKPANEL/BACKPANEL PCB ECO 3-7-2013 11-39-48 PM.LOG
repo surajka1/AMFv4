@@ -1,0 +1,14 @@
+Added Component: Designator=R8(AXIAL-0.5)
+Added Component: Designator=R9(AXIAL-0.5)
+Added Pin To Net: NetName=BTS+_R Pin=R9-1
+Added Net: Name=BTS+_R
+Added Pin To Net: NetName=BTS+ Pin=PGSM-3
+Added Pin To Net: NetName=BTS+ Pin=R9-2
+Added Net: Name=BTS+
+Added Pin To Net: NetName=BTS-_R Pin=R8-1
+Added Net: Name=BTS-_R
+Added Pin To Net: NetName=BTS- Pin=PGSM-4
+Added Pin To Net: NetName=BTS- Pin=R8-2
+Added Net: Name=BTS-
+Added Member To Class: ClassName=PANEL Member=Component R8 100K 1210
+Added Member To Class: ClassName=PANEL Member=Component R9 100K 1210

@@ -1,0 +1,23 @@
+﻿Field=#~Integer~#~50|Field=Comment~String~Comment~125|Field=Description~String~Description~125|Field=Designator~String~Designator~240|Field=Footprint~String~Footprint~87|Field=Quantity~Integer~Quantity~86|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~A1_v40.PrjPcb|ReportField=ProjectFullPath~E:\pcbs\AMFv3\A1_PROCESSOR_v4\A1_v40.PrjPcb|ReportField=Title~Bill of Materials For PCB Document [A1_v40.PcbDoc]|ReportField=TotalQuantity~81|ReportField=ReportTime~11:21:41|ReportField=ReportDate~10-05-2018|ReportField=ReportDateTime~10-05-2018 11:21:41|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=DataSourceFileName~A1_v40.PcbDoc|ReportField=DataSourceFullPath~E:\pcbs\AMFv3\A1_PROCESSOR_v4\A1_v40.PcbDoc|ReportField=PCBConfigurationName~Default Configuration|ReportField=Item~|ReportField=ItemRevision~|ReportField=ItemAndRevision~|ReportField=ItemRevisionBase~|ReportField=ItemRevisionLevel1~|ReportField=ItemRevisionLevel2~|ReportField=ItemRevisionLevel1AndBase~|ReportField=ItemRevisionLevel2AndLevel1~
+1|CR2032|Multicell Battery|BT1|CELL_HOLDER|1
+2|.1uF 1206|Capacitor|C1, C4, C5, C10, C12, C13, C14, C16, C17, C18, C19, C20, C21, C22, C46, C69|C1206|16
+3|1uF 1206|Capacitor|C11, C15, C57, C70|C1206|4
+4|100uF/25V|Capacitor|C68|CAP_.1|1
+5|1N4148 SMD|1 Amp General Purpose Rectifier|D2, D5, D8, D10, D11, D64, D65, D67|4148SMDW|8
+6|Fiducial - Round|Fiducial - Round 1.5mm Top-Bottom|FD1, FD2, FD3|FIDUCIAL 2mm|3
+7|PIC18F4620-I/P|Enhanced FLASH Microcontroller, 8K (x14-Bit words) FLASH, 368 Bytes RAM, 40-Pin PDIP, Standard VDD Range, Industrial Temperature|MC1|PDIP600-P40|1
+8|Header 18|Header, 18-Pin|P1PANEL|HDR1X18_BURGE_F|1
+9|Header 10|Header, 10-Pin|P2 RELAYS, P3 ANALOG|HDR1X10_BURGE_F|2
+10|Header 20|Header, 20-Pin|P4KB|HDR1X20_BURGE_F|1
+11|Header 4|Header, 4-Pin|PSTR1|HDR1X4_BURGE_F|1
+12|4.7K 1206|Resistor|R1, R2, R25, R31, R32|R1206|5
+13|220K 1206|Resistor, Resistor, Resistor, Resistor, Resistor, Semiconductor Resistor|R4, R16, R19, R53, R107, R119|R1206|6
+14|1K 1206|Resistor|R5|R1206|1
+15|100K 1206|Resistor, Resistor, Resistor, Resistor, Resistor, Resistor, Resistor, Resistor, Resistor, Resistor, Resistor, Semiconductor Resistor|R6, R9, R11, R12, R15, R17, R18, R21, R22, R24, R76, R118|R1206|12
+16|2.2K 1206|Resistor, Resistor, Resistor, Resistor, Semiconductor Resistor, Semiconductor Resistor, Semiconductor Resistor|R7, R14, R20, R23, R120, R121, R122|R1206|7
+17|1M 1206|Resistor|R8, R10, R62, R64|R1206|4
+18|47K 1206|Resistor|R13, R108|R1206|2
+19|HCF4051BEY|Analog Multiplexer/Demultiplexer|U1, U2|DIP16|2
+20|LM324D|Quadruple Operational Amplifier|U3|SOIC14_M|1
+21|DS1307|64 X 8 Serial Real-Time Clock|U9|DIP-8|1
+22|XTAL 32.768KHz 6pF|Crystal Oscillator|Y2|XTALWATCH|1

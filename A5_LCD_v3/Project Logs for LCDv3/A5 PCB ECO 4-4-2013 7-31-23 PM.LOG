@@ -1,0 +1,3 @@
+Added Component: Designator=R31(R1206)
+Added Pin To Net: NetName=VCC Pin=R31-1
+Added Pin To Net: NetName=RESET Pin=R31-2

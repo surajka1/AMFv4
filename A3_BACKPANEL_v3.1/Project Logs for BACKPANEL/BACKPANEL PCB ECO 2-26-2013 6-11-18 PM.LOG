@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=GND Pin=CT1-1
+Removed Pin From Net: NetName=CT-RIN Pin=CT1-2
+Removed Pin From Net: NetName=GND Pin=CT2-1
+Removed Pin From Net: NetName=CT-YIN Pin=CT2-2
+Removed Pin From Net: NetName=GND Pin=CT3-1
+Removed Pin From Net: NetName=CT-BIN Pin=CT3-2
+Removed Pin From Net: NetName=BAT+ Pin=D50-1
+Removed Member From Class: ClassName=PANEL Member=CT1
+Removed Member From Class: ClassName=PANEL Member=CT2
+Removed Member From Class: ClassName=PANEL Member=CT3
+Removed Member From Class: ClassName=PANEL Member=D50
+Change Component Footprint: Designator=PGSM Old Footprint=PANELCON8NEW New Footprint=PANELCON8
+Change Component Footprint: Designator=P8 Old Footprint=PANELCON15NEW New Footprint=PANELCON15
+Change Component Footprint: Designator=P9 Old Footprint=PANELCON15NEW New Footprint=PANELCON15
+Added Pin To Net: NetName=BAT+ Pin=PGSM-4

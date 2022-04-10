@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=RO_START Pin=D6-1
+Added Pin To Net: NetName=+12 Pin=D6-2
+Added Pin To Net: NetName=+12 Pin=K3-4
+Added Pin To Net: NetName=RO_START Pin=K3-5

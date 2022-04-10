@@ -1,0 +1,18 @@
+Change Component Footprint: Designator=PFP Old Footprint=HDR1X16_BURGE_M_ST New Footprint=HDR1X16
+Change Component Comment : Designator=D13 Old Comment=LED1 New Comment=GREEN LED 3MM
+Change Component Comment : Designator=D14 Old Comment=LED1 New Comment=GREEN LED 3MM
+Change Component Comment : Designator=D12 Old Comment=LED1 New Comment=RED LED 3MM
+Change Component Comment : Designator=D15 Old Comment=LED1 New Comment=YELLOW LED 3MM
+Change Component Comment : Designator=S1 Old Comment=SW-PB New Comment=8MM DOM SWITCH
+Change Component Comment : Designator=S2 Old Comment=SW-PB New Comment=8MM DOM SWITCH
+Change Component Comment : Designator=S3 Old Comment=SW-PB New Comment=8MM DOM SWITCH
+Change Component Comment : Designator=S4 Old Comment=SW-PB New Comment=8MM DOM SWITCH
+Change Component Comment : Designator=S5 Old Comment=SW-PB New Comment=8MM DOM SWITCH
+Change Component Comment : Designator=S6 Old Comment=SW-PB New Comment=8MM DOM SWITCH
+Change Component Comment : Designator=S7 Old Comment=SW-PB New Comment=8MM DOM SWITCH
+Change Component Comment : Designator=S8 Old Comment=SW-PB New Comment=8MM DOM SWITCH
+Change Component Comment : Designator=S9 Old Comment=SW-PB New Comment=8MM DOM SWITCH
+Change Component Description : Designator=D12 Old Description=Typical RED GaAs LED New Description=3mm LED
+Change Component Description : Designator=D13 Old Description=Typical RED GaAs LED New Description=3mm LED
+Change Component Description : Designator=D14 Old Description=Typical RED GaAs LED New Description=3mm LED
+Change Component Description : Designator=D15 Old Description=Typical RED GaAs LED New Description=3mm LED

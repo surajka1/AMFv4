@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=FLIN Pin=P8-9
+Change Component Comment : Designator=R1 Old Comment=100K 1210 New Comment=MFR 1M .5W
+Change Component Comment : Designator=R2 Old Comment=100K 1210 New Comment=MFR 1M .5W
+Change Component Comment : Designator=R3 Old Comment=100K 1210 New Comment=MFR 1M .5W
+Change Component Comment : Designator=R4 Old Comment=100K 1210 New Comment=MFR 1M .5W
+Change Component Comment : Designator=R5 Old Comment=100K 1210 New Comment=MFR 1M .5W
+Change Component Comment : Designator=R6 Old Comment=100K 1210 New Comment=MFR 1M .5W
+Change Component Comment : Designator=R7 Old Comment=100K 1210 New Comment=MFR 1M .5W
+Change Component Comment : Designator=R8 Old Comment=100K 1210 New Comment=MFR 1M .5W
+Change Component Comment : Designator=R9 Old Comment=100K 1210 New Comment=MFR 1M .5W
+Change Component Comment : Designator=R115 Old Comment=100K 1210 New Comment=MFR 1M .5W
+Change Component Comment : Designator=PGSM Old Comment=Header 8 New Comment=XY2500 8PIN MALE ST, FEMALE R/A
+Change Component Comment : Designator=P8 Old Comment=Header 15 New Comment=XY2500 7PIN+8PIN MALE ST, FEMALE R/A
+Change Component Comment : Designator=P9 Old Comment=Header 15 New Comment=XY2500 7PIN+8PIN MALE ST, FEMALE R/A

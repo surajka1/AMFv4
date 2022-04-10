@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=R1IN Pin=PGSM-1
+Removed Pin From Net: NetName=GND Pin=PGSM-3
+Removed Pin From Net: NetName=BAT+ Pin=PGSM-4
+Removed Pin From Net: NetName=CTN Pin=PGSM-5
+Removed Pin From Net: NetName=CTR Pin=PGSM-6
+Removed Pin From Net: NetName=CTY Pin=PGSM-7
+Removed Pin From Net: NetName=CTB Pin=PGSM-8
+Added Pin To Net: NetName=GND Pin=P7-13
+Added Pin To Net: NetName=CTB Pin=PGSM-1
+Added Pin To Net: NetName=CTY Pin=PGSM-2
+Added Pin To Net: NetName=CTR Pin=PGSM-3
+Added Pin To Net: NetName=CTN Pin=PGSM-4
+Added Pin To Net: NetName=BAT+ Pin=PGSM-5
+Added Pin To Net: NetName=GND Pin=PGSM-6
+Added Pin To Net: NetName=R1IN Pin=PGSM-7

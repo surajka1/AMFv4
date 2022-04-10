@@ -1,0 +1,51 @@
+Added Pin To Net: NetName=DGSTOP Pin=U1-3
+Added Pin To Net: NetName=MCONTACT Pin=U1-4
+Added Pin To Net: NetName=GCONTACT Pin=U1-6
+Added Pin To Net: NetName=BUZZER Pin=U1-14
+Added Pin To Net: NetName=PREHEATER Pin=U1-15
+Added Pin To Net: NetName=LCD_RS# Pin=U1-17
+Added Pin To Net: NetName=FREQ Pin=U1-19
+Added Pin To Net: NetName=FLDIR Pin=U1-20
+Added Pin To Net: NetName=FLG Pin=U1-21
+Added Pin To Net: NetName=AUTO Pin=U1-22
+Added Pin To Net: NetName=UP Pin=U1-23
+Added Pin To Net: NetName=DOWN Pin=U1-24
+Added Pin To Net: NetName=BTSBATT Pin=U1-31
+Added Pin To Net: NetName=BAT Pin=U1-32
+Added Pin To Net: NetName=EB-B_ Pin=U1-33
+Added Pin To Net: NetName=EB-Y_ Pin=U1-34
+Added Pin To Net: NetName=EB-R_ Pin=U1-37
+Added Pin To Net: NetName=DG-B_ Pin=U1-38
+Added Pin To Net: NetName=LCD_E# Pin=U1-39
+Added Pin To Net: NetName=FAULTIND Pin=U1-42
+Added Pin To Net: NetName=LED Pin=U1-43
+Added Pin To Net: NetName=MENU Pin=U1-44
+Added Pin To Net: NetName=SCL Pin=U1-47
+Added Pin To Net: NetName=SDA Pin=U1-48
+Added Pin To Net: NetName=DG-Y_ Pin=U1-49
+Added Pin To Net: NetName=DG-R_ Pin=U1-50
+Added Pin To Net: NetName=LCD_DB#4 Pin=U1-53
+Added Pin To Net: NetName=LCD_DB#5 Pin=U1-54
+Added Pin To Net: NetName=MANUAL_R Pin=U1-55
+Added Pin To Net: NetName=CRANK Pin=U1-56
+Added Pin To Net: NetName=FLSTART Pin=U1-57
+Added Pin To Net: NetName=LCD_DB#6 Pin=U1-59
+Added Pin To Net: NetName=LCD_DB#7 Pin=U1-60
+Added Pin To Net: NetName=CONT_SENSE Pin=U1-26
+Added Net: Name=CONT_SENSE
+Added Pin To Net: NetName=EMSTP Pin=U1-25
+Added Net: Name=EMSTP
+Added Pin To Net: NetName=FLT1 Pin=U1-27
+Added Net: Name=FLT1
+Added Pin To Net: NetName=HT Pin=U1-28
+Added Net: Name=HT
+Added Pin To Net: NetName=LLOP Pin=U1-30
+Added Net: Name=LLOP
+Added Pin To Net: NetName=REMOT Pin=U1-36
+Added Net: Name=REMOT
+Added Pin To Net: NetName=RSTART Pin=U1-29
+Added Net: Name=RSTART
+Added Pin To Net: NetName=RX Pin=U1-52
+Added Net: Name=RX
+Added Pin To Net: NetName=TX Pin=U1-51
+Added Net: Name=TX

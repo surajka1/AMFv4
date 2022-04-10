@@ -1,0 +1,5 @@
+Added Component: Designator=C37(C1206W)
+Added Pin To Net: NetName=NetR66_2 Pin=C37-1
+Added Pin To Net: NetName=DGR_M Pin=C37-2
+Change Net Name : Old Net Name=NetR66_2 New Net Name=NetC37_1
+Added Member To Class: ClassName=AC2 Member=Component C37 NOT CONNECTED

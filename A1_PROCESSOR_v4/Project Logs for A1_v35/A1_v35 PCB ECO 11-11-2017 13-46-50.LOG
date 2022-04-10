@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=S3 Pin=MC1-8
+Added Pin To Net: NetName=CONT_SENSE Pin=MC1-8

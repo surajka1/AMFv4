@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=SCL Pin=R1-1
+Added Pin To Net: NetName=VCC Pin=R1-2
+Added Pin To Net: NetName=SDA Pin=R2-1
+Added Pin To Net: NetName=VCC Pin=R2-2

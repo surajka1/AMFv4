@@ -1,0 +1,13 @@
+Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~RELAYCARD.PrjPcb|ReportField=ProjectFullPath~C:\Users\suraj\Documents\PCBs\AMFv3\A2_RELAYCARDNEW_v3\RELAYCARD.PrjPcb|ReportField=Title~Bill of Materials For Project [RELAYCARD.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~28|ReportField=ReportTime~12:08:29 PM|ReportField=ReportDate~5/9/2013|ReportField=ReportDateTime~5/9/2013 12:08:29 PM|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~5/9/2013|ReportField=CurrentTime~12:08:11 PM|ReportField=Date~|ReportField=DocumentFullPathAndName~C:\Users\suraj\Documents\PCBs\AMFv3\A2_RELAYCARDNEW_v3\RELAYS.SchDoc|ReportField=DocumentName~RELAYS.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~5/9/2013|ReportField=Organization~|ReportField=ProjectName~RELAYCARD.PrjPcb|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~RELAYCARD.PrjPcb|ReportField=DataSourceFullPath~C:\Users\suraj\Documents\PCBs\AMFv3\A2_RELAYCARDNEW_v3\RELAYCARD.PrjPcb
+1uF 1206|Capacitor|C21, C69|C1206|Cap|2
+1N4148 SMD|Small Signal Fast Switching Diode|D1, D2, D3, D4, D5, D6, D7, D8, D9, D10|4148SMDW|Diode 1N5408|10
+46-12-2CE|DPDT RELAY|K1, K2|RELAYDPDT|RELAYDPDT|2
+61-06-1CE|SPDT Relay|K3, K4, K5|RELAYOEN|Relay|3
+61-06-1CE  NC|SPDT Relay|K6, K7, K8|RELAYOEN|Relay|3
+Header 10|Header, 10-Pin|P11|HDR1X10_BURGE_M2|Header 10|1
+Header 10|Header, 10-Pin|P15RL|HDR1X10_BURGE_M|Header 10|1
+Header 16|Header, 16-Pin|PR2|HDR1X16_BURGE_M|Header 16|1
+Header 4|Header, 4-Pin|PSTR2, PSTR3|HDR1X4_BURGE_M|Header 4|2
+47K 1206|Resistor|R34|R1206|Res1|1
+4.7K 1206|Resistor|R35|R1206|Res1|1
+ULQ2803A + 18PIN BASE OEN|Eight Darlington Array|U10|DIP18|ULQ2803A|1

@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=MCONTACTIN1 Pin=D10-1
+Removed Pin From Net: NetName=MCONTACTIN Pin=D10-2
+Removed Member From Class: ClassName=RELAYS Member=D10

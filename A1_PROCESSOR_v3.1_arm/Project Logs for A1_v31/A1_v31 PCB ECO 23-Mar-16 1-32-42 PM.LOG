@@ -1,0 +1,8 @@
+Added Pin To Net: NetName=FLT1 Pin=PULL-2
+Added Pin To Net: NetName=HT Pin=PULL-3
+Added Pin To Net: NetName=LLOP Pin=PULL-4
+Added Pin To Net: NetName=EMSTP Pin=PULL-5
+Added Pin To Net: NetName=FLDIR Pin=PULL-6
+Added Pin To Net: NetName=NetD4_1 Pin=D4-1
+Added Pin To Net: NetName=NetD4_1 Pin=PULL-7
+Added Net: Name=NetD4_1

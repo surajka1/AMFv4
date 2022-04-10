@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=AUTO Pin=U1-22
+Removed Pin From Net: NetName=RESET_KEY Pin=U1-45
+Added Pin To Net: NetName=RESET_KEY Pin=U1-22
+Added Pin To Net: NetName=AUTO Pin=U1-45

@@ -1,0 +1,14 @@
+Change Component Footprint: Designator=C17 Old Footprint=C1206W New Footprint=C1206
+Change Component Footprint: Designator=C44 Old Footprint=C1206W New Footprint=C1206
+Change Component Footprint: Designator=C54 Old Footprint=C1206W New Footprint=C1206
+Change Component Footprint: Designator=C55 Old Footprint=C1206W New Footprint=C1206
+Change Component Footprint: Designator=PULL Old Footprint=HDR1X9 New Footprint=RESPACK8+1
+Change Component Footprint: Designator=PFP Old Footprint=HDR1X16 New Footprint=HDR1X16_BURGE_F
+Change Component Footprint: Designator=P5 Old Footprint=HDR1X20 New Footprint=HDR1X20_BURGE_M
+Change Component Footprint: Designator=P6 Old Footprint=HDR1X20 New Footprint=HDR1X20_BURGE_M
+Change Component Footprint: Designator=R26 Old Footprint=R1206W New Footprint=R1206
+Change Component Footprint: Designator=R27 Old Footprint=R1206W New Footprint=R1206
+Change Component Footprint: Designator=R28 Old Footprint=R1206W New Footprint=R1206
+Change Component Footprint: Designator=R29 Old Footprint=R1206W New Footprint=R1206
+Change Component Footprint: Designator=R30 Old Footprint=R1206W New Footprint=R1206
+Add Pin To Net: Pin=P6-1 Old Net=NetP6_1 New Net=RESET

@@ -1,0 +1,56 @@
+Protel Design System Design Rule Check
+PCB File : E:\PCBs\AMFv3\A1_PROCESSOR_v3.1_arm\A1_v31.PcbDoc
+Date     : 04-Apr-16
+Time     : 11:10:15 AM
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+   Violation between Un-Routed Net Constraint: Net GND Between Track on layer Bottom Layer (6332.5,4847.5mil) And Pad S1-2 (6698.858,4530.551mil)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad S1-2 (6442.953,4530.551mil) And Pad C46-1 (6573.976,4645mil)
+   Violation between Un-Routed Net Constraint: Net RESET Between Pad S1-1 (6442.953,4353.386mil) And Pad S1-1 (6698.858,4353.386mil)
+   Violation between Un-Routed Net Constraint: Net RESET Between Pad S1-1 (6698.858,4353.386mil) And Pad U1-63 (6879.134,5470.275mil)
+Rule Violations :4
+
+Processing Rule : Clearance Constraint (Gap=8mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Direct Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=16mil) (Max=60mil) (Preferred=22mil) (All)
+   Violation between Width Constraint: Track (3937.008mil,3937.008mil)(3937.008mil,7086.614mil)  Top Layer
+   Violation between Width Constraint: Track (3937.008mil,7086.614mil)(7874.016mil,7086.614mil)  Top Layer
+   Violation between Width Constraint: Track (7874.016mil,3937.008mil)(7874.016mil,7086.614mil)  Top Layer
+   Violation between Width Constraint: Track (3937.008mil,3937.008mil)(7874.016mil,3937.008mil)  Top Layer
+   Violation between Width Constraint: Track (3937.008mil,3937.008mil)(3937.008mil,7086.614mil)  Bottom Layer
+   Violation between Width Constraint: Track (3937.008mil,7086.614mil)(7874.016mil,7086.614mil)  Bottom Layer
+   Violation between Width Constraint: Track (7874.016mil,3937.008mil)(7874.016mil,7086.614mil)  Bottom Layer
+   Violation between Width Constraint: Track (3937.008mil,3937.008mil)(7874.016mil,3937.008mil)  Bottom Layer
+Rule Violations :8
+
+Processing Rule : Height Constraint (Min=0mil) (Max=10000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=1mil) (Max=100mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=10mil) (Disabled)(All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=10mil) (Disabled)(IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=10mil) (Disabled)(All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
+
+
+Violations Detected : 12
+Time Elapsed        : 00:00:01

@@ -1,0 +1,5 @@
+Change Component Comment : Designator=K6 Old Comment=61-06-1CE New Comment=61-06-1CE  NC
+Change Component Comment : Designator=K7 Old Comment=61-06-1CE New Comment=61-06-1CE  NC
+Change Component Comment : Designator=K8 Old Comment=61-06-1CE New Comment=61-06-1CE  NC
+Change Component Comment : Designator=U10 Old Comment=ULQ2803A New Comment=ULQ2803A + 18PIN BASE OEN
+Added Member To Class: ClassName=RELAYS Member=Component K1 46-12-2CE

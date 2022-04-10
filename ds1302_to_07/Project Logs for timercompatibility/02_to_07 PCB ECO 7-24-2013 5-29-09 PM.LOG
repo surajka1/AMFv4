@@ -1,0 +1,4 @@
+Added Component: Designator=Y2(XTALWATCH)
+Added Pin To Net: NetName=NetU1_1 Pin=Y2-1
+Added Pin To Net: NetName=NetU1_2 Pin=Y2-2
+Added Member To Class: ClassName=1302_07 Member=Component Y2 XTAL 32.768KHz 6pF

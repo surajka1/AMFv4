@@ -1,0 +1,13 @@
+Change Component Footprint: Designator=PSTR2 Old Footprint=HDR1X4 New Footprint=HDR1X4_BURGE_M
+Change Component Footprint: Designator=PSTR3 Old Footprint=HDR1X4 New Footprint=HDR1X4_BURGE_M
+Change Component Footprint: Designator=P11 Old Footprint=HDR1X10 New Footprint=HDR1X10_BURGE_M2
+Change Component Footprint: Designator=P15RL Old Footprint=HDR1X10 New Footprint=HDR1X10_BURGE_M
+Change Component Footprint: Designator=PR2 Old Footprint=HDR1X16 New Footprint=HDR1X16_BURGE_M
+Change Component Footprint: Designator=C9 Old Footprint=R1206W New Footprint=4148SMD
+Change Component Footprint: Designator=C11 Old Footprint=R1206W New Footprint=4148SMD
+Change Component Footprint: Designator=C12 Old Footprint=R1206W New Footprint=4148SMD
+Change Component Footprint: Designator=C14 Old Footprint=R1206W New Footprint=4148SMD
+Change Component Footprint: Designator=C15 Old Footprint=R1206W New Footprint=4148SMD
+Change Component Footprint: Designator=C16 Old Footprint=R1206W New Footprint=4148SMD
+Change Component Footprint: Designator=R117 Old Footprint=R1206W New Footprint=4148SMD
+Change Component Footprint: Designator=R121 Old Footprint=R1206W New Footprint=4148SMD

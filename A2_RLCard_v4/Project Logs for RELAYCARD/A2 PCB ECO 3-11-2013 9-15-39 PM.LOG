@@ -1,0 +1,32 @@
+Added Component: Designator=D1(DO214)
+Added Component: Designator=D2(DO214)
+Added Component: Designator=D3(DO214)
+Added Component: Designator=D4(DO214)
+Added Component: Designator=D5(DO214)
+Added Component: Designator=D6(DO214)
+Added Component: Designator=D7(DO214)
+Added Component: Designator=D8(DO214)
+Added Pin To Net: NetName=MANUALIN Pin=D1-1
+Added Pin To Net: NetName=+12 Pin=D1-2
+Added Pin To Net: NetName=MCONTACTIN Pin=D2-1
+Added Pin To Net: NetName=+12 Pin=D2-2
+Added Pin To Net: NetName=BUZZERIN Pin=D3-1
+Added Pin To Net: NetName=+12 Pin=D3-2
+Added Pin To Net: NetName=GCONTACTIN Pin=D4-1
+Added Pin To Net: NetName=+12 Pin=D4-2
+Added Pin To Net: NetName=CRANKIN Pin=D5-1
+Added Pin To Net: NetName=+12 Pin=D5-2
+Added Pin To Net: NetName=PREHEATERIN Pin=D6-1
+Added Pin To Net: NetName=+12 Pin=D6-2
+Added Pin To Net: NetName=DGSTOPIN Pin=D7-1
+Added Pin To Net: NetName=+12 Pin=D7-2
+Added Pin To Net: NetName=FLSTARTIN Pin=D8-1
+Added Pin To Net: NetName=+12 Pin=D8-2
+Added Member To Class: ClassName=RELAYS Member=Component D1 1N4148 SMD
+Added Member To Class: ClassName=RELAYS Member=Component D2 1N4148 SMD
+Added Member To Class: ClassName=RELAYS Member=Component D3 1N4148 SMD
+Added Member To Class: ClassName=RELAYS Member=Component D4 1N4148 SMD
+Added Member To Class: ClassName=RELAYS Member=Component D5 1N4148 SMD
+Added Member To Class: ClassName=RELAYS Member=Component D6 1N4148 SMD
+Added Member To Class: ClassName=RELAYS Member=Component D7 1N4148 SMD
+Added Member To Class: ClassName=RELAYS Member=Component D8 1N4148 SMD

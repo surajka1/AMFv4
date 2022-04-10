@@ -1,0 +1,10 @@
+Added Component: Designator=C1(C1206_W)
+Added Component: Designator=R1(R1206_W)
+Added Component: Designator=R2(R1206_W)
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=VCC Pin=C1-2
+Change Net Name : Old Net Name=NetU1_5 New Net Name=SDA
+Change Net Name : Old Net Name=NetU1_6 New Net Name=SCL
+Added Member To Class: ClassName=1302_07 Member=Component C1 .1uF 1206
+Added Member To Class: ClassName=1302_07 Member=Component R1 1K 1206
+Added Member To Class: ClassName=1302_07 Member=Component R2 1K 1206

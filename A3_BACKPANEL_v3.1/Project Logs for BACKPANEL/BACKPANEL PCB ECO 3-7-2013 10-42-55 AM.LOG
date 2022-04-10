@@ -1,0 +1,78 @@
+Removed Pin From Net: NetName=DGR Pin=P8-1
+Removed Pin From Net: NetName=DGB Pin=P8-3
+Removed Pin From Net: NetName=R Pin=P8-5
+Removed Pin From Net: NetName=B Pin=P8-7
+Removed Pin From Net: NetName=B Pin=P14PANEL-6
+Removed Pin From Net: NetName=Y Pin=P14PANEL-8
+Removed Pin From Net: NetName=R Pin=P14PANEL-10
+Removed Pin From Net: NetName=DGB Pin=P14PANEL-14
+Removed Pin From Net: NetName=DGY Pin=P14PANEL-16
+Removed Pin From Net: NetName=DGR Pin=P14PANEL-18
+Added Component: Designator=R1(AXIAL-0.5)
+Added Component: Designator=R2(AXIAL-0.5)
+Added Component: Designator=R3(AXIAL-0.5)
+Added Component: Designator=R4(AXIAL-0.5)
+Added Component: Designator=R5(AXIAL-0.5)
+Added Component: Designator=R6(AXIAL-0.5)
+Added Component: Designator=R7(AXIAL-0.5)
+Added Component: Designator=R8(AXIAL-0.5)
+Added Component: Designator=R9(AXIAL-0.5)
+Added Component: Designator=R10(AXIAL-0.5)
+Added Component: Designator=R11(AXIAL-0.5)
+Added Component: Designator=R115(AXIAL-0.5)
+Added Pin To Net: NetName=DGB Pin=P8-1
+Added Pin To Net: NetName=DGR Pin=P8-3
+Added Pin To Net: NetName=B Pin=P8-5
+Added Pin To Net: NetName=R Pin=P8-7
+Added Pin To Net: NetName=DGB Pin=P14PANEL-18
+Added Pin To Net: NetName=R Pin=R1-2
+Added Pin To Net: NetName=Y Pin=R3-2
+Added Pin To Net: NetName=B Pin=R5-2
+Added Pin To Net: NetName=DGR Pin=R7-2
+Added Pin To Net: NetName=DGY Pin=R9-2
+Added Pin To Net: NetName=DGB Pin=R11-2
+Added Pin To Net: NetName=B_M Pin=P14PANEL-10
+Added Pin To Net: NetName=B_M Pin=R4-1
+Added Net: Name=B_M
+Added Pin To Net: NetName=DGR_M Pin=P14PANEL-14
+Added Pin To Net: NetName=DGR_M Pin=R6-1
+Added Net: Name=DGR_M
+Added Pin To Net: NetName=DGY_M Pin=P14PANEL-16
+Added Pin To Net: NetName=DGY_M Pin=R8-1
+Added Net: Name=DGY_M
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=NetR1_1 Pin=R115-2
+Added Net: Name=NetR1_1
+Added Pin To Net: NetName=NetR2_2 Pin=R2-2
+Added Pin To Net: NetName=NetR2_2 Pin=R3-1
+Added Net: Name=NetR2_2
+Added Pin To Net: NetName=NetR4_2 Pin=R4-2
+Added Pin To Net: NetName=NetR4_2 Pin=R5-1
+Added Net: Name=NetR4_2
+Added Pin To Net: NetName=NetR6_2 Pin=R6-2
+Added Pin To Net: NetName=NetR6_2 Pin=R7-1
+Added Net: Name=NetR6_2
+Added Pin To Net: NetName=NetR8_2 Pin=R8-2
+Added Pin To Net: NetName=NetR8_2 Pin=R9-1
+Added Net: Name=NetR8_2
+Added Pin To Net: NetName=NetR10_2 Pin=R10-2
+Added Pin To Net: NetName=NetR10_2 Pin=R11-1
+Added Net: Name=NetR10_2
+Added Pin To Net: NetName=R_M Pin=P14PANEL-6
+Added Pin To Net: NetName=R_M Pin=R115-1
+Added Net: Name=R_M
+Added Pin To Net: NetName=Y_M Pin=P14PANEL-8
+Added Pin To Net: NetName=Y_M Pin=R2-1
+Added Net: Name=Y_M
+Added Member To Class: ClassName=PANEL Member=Component R1 100K 1210
+Added Member To Class: ClassName=PANEL Member=Component R2 100K 1210
+Added Member To Class: ClassName=PANEL Member=Component R3 100K 1210
+Added Member To Class: ClassName=PANEL Member=Component R4 100K 1210
+Added Member To Class: ClassName=PANEL Member=Component R5 100K 1210
+Added Member To Class: ClassName=PANEL Member=Component R6 100K 1210
+Added Member To Class: ClassName=PANEL Member=Component R7 100K 1210
+Added Member To Class: ClassName=PANEL Member=Component R8 100K 1210
+Added Member To Class: ClassName=PANEL Member=Component R9 100K 1210
+Added Member To Class: ClassName=PANEL Member=Component R10 100K 1210
+Added Member To Class: ClassName=PANEL Member=Component R11 100K 1210
+Added Member To Class: ClassName=PANEL Member=Component R115 100K 1210

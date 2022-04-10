@@ -1,0 +1,15 @@
+Added Component: Designator=FD1(FIDUCIAL 2mm)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "Graphic-PCB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Unreleased"; VariantName = "[No Variations]"
+Added Component: Designator=FD2(FIDUCIAL 2mm)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "Graphic-PCB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Unreleased"; VariantName = "[No Variations]"
+Added Component: Designator=FD3(FIDUCIAL 2mm)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "Graphic-PCB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Unreleased"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=PROCESSORv35 Member=Component FD1 Fiducial - Round
+Added Member To Class: ClassName=PROCESSORv35 Member=Component FD2 Fiducial - Round
+Added Member To Class: ClassName=PROCESSORv35 Member=Component FD3 Fiducial - Round

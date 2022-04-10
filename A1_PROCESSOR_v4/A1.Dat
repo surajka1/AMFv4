@@ -1,0 +1,30 @@
+Field=Comment~String~Comment~125|Field=Description~String~Description~125|Field=Designator~String~Designator~240|Field=Footprint~String~Footprint~87|Field=LibRef~String~LibRef~87|Field=Quantity~Integer~Quantity~86|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~A1.PrjPcb|ReportField=ProjectFullPath~C:\Users\suraj\Documents\PCBs\AMFv3\A1_PROCESSOR_v3\A1.PrjPcb|ReportField=Title~Bill of Materials For Project [A1.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~91|ReportField=ReportTime~1:53:06 PM|ReportField=ReportDate~6/4/2013|ReportField=ReportDateTime~6/4/2013 1:53:06 PM|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=ConfigurationParameters~|ReportField=ConfiguratorName~|ReportField=CurrentDate~6/4/2013|ReportField=CurrentTime~1:52:22 PM|ReportField=Date~NOV 2011|ReportField=DocumentFullPathAndName~C:\Users\suraj\Documents\PCBs\AMFv3\A1_PROCESSOR_v3\IO.SchDoc|ReportField=DocumentName~IO.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~SURAJ|ReportField=Engineer~SURAJ K A|ReportField=ImagePath~|ReportField=IsUserConfigurable~|ReportField=ModifiedDate~6/4/2013|ReportField=Organization~|ReportField=ProjectName~A1.PrjPcb|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~2|ReportField=SheetTotal~2|ReportField=Time~|ReportField=Title~AMF CONTROLLER GC12|ReportField=VersionControl_RevNumber~|ReportField=DataSourceFileName~A1.PrjPcb|ReportField=DataSourceFullPath~C:\Users\suraj\Documents\PCBs\AMFv3\A1_PROCESSOR_v3\A1.PrjPcb
+CR2032|Multicell Battery|BT1|CELL_HOLDER|Battery|1
+.1uF 1206|Capacitor|C1, C4, C5, C10, C12, C13, C14, C16, C17, C18, C19, C20, C21, C22, C46, C69|C1206_W|Cap, Cap2|16
+22pF 1206|Capacitor|C2, C3|C1206_W|Cap|2
+1uF 1206|Capacitor|C11, C15, C57, C70|C1206_W|Cap, Cap2|4
+100uF/25V|Capacitor|C68|Cap_.1|Cap|1
+LED GREEN SMD|Typical RED GaAs LED|D1|LED SMD|LED1|1
+1N4148 SMD|1 Amp General Purpose Rectifier|D2, D5, D8, D10, D11, D64, D65, D67|4148SMDW|Diode 1N4001|8
+P6KE6V8A|Transient Voltage Suppression (TVS) Diode|D3, D4|DIODE1A|Tranzorb|2
+D Zener 5.1V 1W|1 Amp General Purpose Rectifier|D9|DZENOR .25W|Diode 1N4001|1
+PIC18F4620-I/P|Enhanced FLASH Microcontroller, 8K (x14-Bit words) FLASH, 368 Bytes RAM, 40-Pin PDIP, Standard VDD Range, Industrial Temperature|MC1|PDIP600-P40|PIC16F877A-I/P|1
+Header 18|Header, 18-Pin|P1PANEL|HDR1X18_BURGE_F|Header 18|1
+Header 10|Header, 10-Pin|P2 RELAYS, P3 ANALOG|HDR1X10_BURGE_F|Header 10|2
+Header 20|Header, 20-Pin|P4KB|HDR1X20_BURGE_F|Header 20|1
+Header 4|Header, 4-Pin|PSTR1|HDR1X4_BURGE_F|Header 4|1
+BC847|NPN General-purpose Transistor|Q1|SOT23_M|BC847|1
+4.7K 1206|Resistor, Semiconductor Resistor|R1, R2, R7, R14, R20, R23, R120, R121, R122|R1206_W|Res1, Res Semi|9
+1K 1206|Resistor|R3, R5|R1206_W|Res1|2
+220K 1206|Resistor, Semiconductor Resistor|R4, R16, R19, R53, R107, R119|R1206_W|Res1, Res Semi|6
+100K 1206|Resistor, Semiconductor Resistor|R6, R9, R11, R12, R15, R17, R18, R21, R22, R24, R76, R118|R1206_W|Res1, Res Semi|12
+1M 1206|Resistor|R8, R10, R62, R64|R1206_W|Res1|4
+47K 1206|Resistor|R13, R108|R1206_W|Res1|2
+10K 1206|Resistor|R25, R28, R30|R1206_W|Res1|3
+220E 1206|Resistor|R26, R27, R29|R1206_W|Res1|3
+PC817|4-Pin Phototransistor Optocoupler|U1, U4|DIP-4|Optoisolator1|2
+HCF4067|Analog Multiplexer/Demultiplexer|U2|CDIP24|HCF4067BM1|1
+LM324D|Quadruple Operational Amplifier|U3|SOIC14_M|LM324D|1
+DS1302+|Trickle Charge Timekeeping Chip|U9|DIP-8|DS1302|1
+XTAL 16MHz MINI|Crystal Oscillator|Y1|XTAL|XTAL|1
+XTAL 32.768KHz 6pF|Crystal Oscillator|Y2|XTALWATCH|XTAL|1

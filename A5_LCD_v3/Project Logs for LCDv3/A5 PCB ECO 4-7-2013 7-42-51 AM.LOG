@@ -1,0 +1,31 @@
+Removed Pin From Net: NetName=RESET Pin=PFP-1
+Removed Pin From Net: NetName=SET_IN Pin=PFP-2
+Removed Pin From Net: NetName=UPIN Pin=PFP-3
+Removed Pin From Net: NetName=DOWN_IN Pin=PFP-4
+Removed Pin From Net: NetName=M_IN Pin=PFP-5
+Removed Pin From Net: NetName=START_IN Pin=PFP-6
+Removed Pin From Net: NetName=STOP_IN Pin=PFP-7
+Removed Pin From Net: NetName=CM_IN Pin=PFP-8
+Removed Pin From Net: NetName=CDG_IN Pin=PFP-9
+Removed Pin From Net: NetName=FAULTIND_P Pin=PFP-11
+Removed Pin From Net: NetName=GCONTACT_P Pin=PFP-12
+Removed Pin From Net: NetName=MCONTACT_P Pin=PFP-13
+Removed Pin From Net: NetName=MANUAL_P Pin=PFP-14
+Removed Pin From Net: NetName=GND Pin=PFP-16
+Change Component DesignItemId : Designator=PFP Old DesignItemId=Header 16 New DesignItemId=MHDR1X17
+Change Component Footprint: Designator=PFP Old Footprint=HDR1X16_BURGE_F New Footprint=HDR1X17_BURGE_F
+Change Component Comment : Designator=PFP Old Comment=Header 16 New Comment=MHDR1X17
+Added Pin To Net: NetName=RESET Pin=PFP-2
+Added Pin To Net: NetName=SET_IN Pin=PFP-3
+Added Pin To Net: NetName=UPIN Pin=PFP-4
+Added Pin To Net: NetName=DOWN_IN Pin=PFP-5
+Added Pin To Net: NetName=M_IN Pin=PFP-6
+Added Pin To Net: NetName=START_IN Pin=PFP-7
+Added Pin To Net: NetName=STOP_IN Pin=PFP-8
+Added Pin To Net: NetName=CM_IN Pin=PFP-9
+Added Pin To Net: NetName=CDG_IN Pin=PFP-10
+Added Pin To Net: NetName=FAULTIND_P Pin=PFP-12
+Added Pin To Net: NetName=GCONTACT_P Pin=PFP-13
+Added Pin To Net: NetName=MCONTACT_P Pin=PFP-14
+Added Pin To Net: NetName=MANUAL_P Pin=PFP-15
+Added Pin To Net: NetName=GND Pin=PFP-17

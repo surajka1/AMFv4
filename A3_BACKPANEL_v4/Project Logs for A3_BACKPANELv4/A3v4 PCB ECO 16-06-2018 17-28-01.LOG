@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=GND Pin=D1-1
+Removed Pin From Net: NetName=TIOUT Pin=D1-2
+Removed Pin From Net: NetName=CONT_S_IN Pin=PGSM-1
+Removed Pin From Net: NetName=FLGIN Pin=PGSM-2
+Removed Pin From Net: NetName=BTS+ Pin=PGSM-3
+Removed Pin From Net: NetName=BTS- Pin=PGSM-4
+Removed Pin From Net: NetName=BAT+ Pin=PGSM-5
+Removed Pin From Net: NetName=GND Pin=PGSM-6
+Removed Pin From Net: NetName=TIOUT Pin=PGSM-7
+Removed Pin From Net: NetName=R1IN Pin=PGSM-8
+Removed Member From Class: ClassName=PANEL_A3_v4 Member=D1
+Removed Member From Class: ClassName=PANEL_A3_v4 Member=PGSM

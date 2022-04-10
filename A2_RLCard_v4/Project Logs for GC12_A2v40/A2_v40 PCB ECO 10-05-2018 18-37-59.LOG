@@ -1,0 +1,2 @@
+Change Component Footprint: Designator=C21 Old Footprint=CAP DISC .2 New Footprint=C1206
+Change Net Name : Old Net Name=FLSTARTOUT New Net Name=VOUT_BUZZER

@@ -1,0 +1,19 @@
+REQUIREMENTS
+
+INPUTS
+===============================
+DIGITAL
+===========
+1. HIGH TEMP
+2. LLOP
+3. EMERGENCY STOP
+4. REMOTE START
+5. REMOTE MANUAL
+6. FAULT1.
+
+
+ANALOG
+===========
+1. FUEL DIRECT
+2. FUEL GUAGE
+3. BTS BATT

@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=FLDIR Pin=U1-20
+Removed Pin From Net: NetName=EMSTP Pin=U1-25
+Removed Pin From Net: NetName=FLT1 Pin=U1-27
+Removed Pin From Net: NetName=HT Pin=U1-28
+Removed Pin From Net: NetName=LLOP Pin=U1-30
+Removed Pin From Net: NetName=REMOT Pin=U1-36
+Removed Pin From Net: NetName=LED Pin=U1-43

@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=DIGITALIN Pin=K5-1
+Removed Pin From Net: NetName=VOUT_BUZZER Pin=K5-3
+Added Pin To Net: NetName=VOUT_BUZZER Pin=K5-1
+Added Pin To Net: NetName=DIGITALIN Pin=K5-3

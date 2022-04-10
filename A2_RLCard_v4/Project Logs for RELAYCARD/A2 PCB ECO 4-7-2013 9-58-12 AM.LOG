@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=MCONTACTOUT2 Pin=RL2-9
+Removed Pin From Net: NetName=MCONTACTVIN Pin=RL2-13
+Added Pin To Net: NetName=MCONTACTVIN Pin=RL2-9
+Added Pin To Net: NetName=MCONTACTOUT2 Pin=RL2-13

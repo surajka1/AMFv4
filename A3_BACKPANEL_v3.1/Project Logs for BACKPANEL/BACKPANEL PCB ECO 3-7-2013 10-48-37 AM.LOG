@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=DGY Pin=R9-2
+Removed Pin From Net: NetName=DGB Pin=R11-2
+Removed Member From Class: ClassName=PANEL Member=R8
+Removed Member From Class: ClassName=PANEL Member=R9
+Removed Member From Class: ClassName=PANEL Member=R10
+Removed Member From Class: ClassName=PANEL Member=R11
+Added Pin To Net: NetName=DGY Pin=P14PANEL-16

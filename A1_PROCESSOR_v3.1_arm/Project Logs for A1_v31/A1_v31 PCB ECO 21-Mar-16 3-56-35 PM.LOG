@@ -1,0 +1,9 @@
+Added Pin To Net: NetName=FLDIR Pin=D3-1
+Added Pin To Net: NetName=LLOP Pin=D6-1
+Added Pin To Net: NetName=EMSTP Pin=D7-1
+Added Pin To Net: NetName=VCC Pin=R7-1
+Added Pin To Net: NetName=FLDIR Pin=R7-2
+Added Pin To Net: NetName=VCC Pin=R18-1
+Added Pin To Net: NetName=LLOP Pin=R18-2
+Added Pin To Net: NetName=VCC Pin=R22-1
+Added Pin To Net: NetName=EMSTP Pin=R22-2

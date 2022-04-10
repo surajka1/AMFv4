@@ -1,0 +1,14 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [GC12_A2v3.1.PrjPcb]
+   Generated File[A2-Plated.TXT]
+   Generated File[A2.DRL]
+   Generated File[A2-BoardEdgeRout.TXT]
+   Generated File[A2.LDP]
+   Generated File[A2.DRR]
+
+
+Files Generated   : 5
+Documents Printed : 0
+
+Finished Output Generation At 9:43:35 AM On 12/10/2013

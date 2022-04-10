@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=MCONTACTIN Pin=D2-1
+Removed Pin From Net: NetName=GCONTACTIN Pin=D4-1
+Removed Pin From Net: NetName=GCONTACTIN Pin=RL1-1
+Removed Pin From Net: NetName=MCONTACTIN Pin=RL2-1
+Added Component: Designator=D9(4148SMD)
+Added Component: Designator=D10(4148SMD)
+Added Pin To Net: NetName=GCONTACTIN Pin=D9-2
+Added Pin To Net: NetName=MCONTACTIN Pin=D10-2
+Added Pin To Net: NetName=GCONTACTIN1 Pin=D4-1
+Added Pin To Net: NetName=GCONTACTIN1 Pin=D9-1
+Added Pin To Net: NetName=GCONTACTIN1 Pin=RL1-1
+Added Net: Name=GCONTACTIN1
+Added Pin To Net: NetName=MCONTACTIN1 Pin=D2-1
+Added Pin To Net: NetName=MCONTACTIN1 Pin=D10-1
+Added Pin To Net: NetName=MCONTACTIN1 Pin=RL2-1
+Added Net: Name=MCONTACTIN1
+Added Member To Class: ClassName=RELAYS Member=Component D9 1N4148 SMD
+Added Member To Class: ClassName=RELAYS Member=Component D10 1N4148 SMD

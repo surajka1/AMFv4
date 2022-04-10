@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=GND Pin=D22-1
+Removed Pin From Net: NetName=FREQ Pin=D22-2
+Removed Member From Class: ClassName=AC2 Member=D22
+Change Component Footprint: Designator=C36 Old Footprint=CAP_.1 New Footprint=C1206
+Change Component Footprint: Designator=C39 Old Footprint=CAP_.1 New Footprint=C1206
+Change Component Footprint: Designator=C40 Old Footprint=CAP_.1 New Footprint=C1206
